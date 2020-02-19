@@ -1,0 +1,11 @@
+<svg id="ad" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="345" height="99" viewBox="0 0 345 99">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 381 82">
+      <image width="381" height="82" xlink:href="../../../../Users/Johannes/Desktop/grafix/LuftHansa/layout_set_logo.png"/>
+    </pattern>
+  </defs>
+  <rect id="video" width="345" height="99" fill="#011e47"/>
+  <rect id="Rechteck_52" data-name="Rechteck 52" width="69" height="99" transform="translate(276)" fill="#797979"/>
+  <path id="ic_public_24px" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2ZM11,19.93A7.988,7.988,0,0,1,4,12a8.118,8.118,0,0,1,.21-1.79L9,15v1a2.006,2.006,0,0,0,2,2Zm6.9-2.54A1.984,1.984,0,0,0,16,16H15V13a1,1,0,0,0-1-1H8V10h2a1,1,0,0,0,1-1V7h2a2.006,2.006,0,0,0,2-2V4.59a7.982,7.982,0,0,1,2.9,12.8Z" transform="translate(299 38)" fill="#f4f4f4"/>
+  <rect id="layout_set_logo" width="213" height="46" transform="translate(10 26)" fill="url(#pattern)"/>
+</svg>

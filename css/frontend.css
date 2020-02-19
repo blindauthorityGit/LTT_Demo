@@ -1,0 +1,207 @@
+html,
+body {
+  height: calc(100vh - 55px);
+}
+
+#template1 {
+  font-family: "Raleway", sans-serif;
+}
+
+.overlay {
+  width: 1%;
+  height: 1%;
+  position: absolute;
+  background-color: #031444;
+  opacity: 0;
+  top: 0;
+  z-index: 20;
+  visibility: hidden;
+  transition: opacity ease 200ms;
+}
+
+.active {
+  visibility: visible;
+  width: 100% !important;
+  height: 100% !important;
+  opacity: 0.8 !important;
+  transition: opacity ease 200ms;
+}
+
+.adCont {
+}
+
+.logo {
+  display: none;
+}
+
+.kontaktdaten {
+  display: none;
+}
+.container {
+  background: transparent !important;
+  margin-top: 55px;
+  box-shadow: none !important;
+}
+
+.classImageWrapper {
+  max-width: 150px;
+}
+
+.classImageWrapper img {
+  max-width: 100%;
+  object-fit: contain;
+  max-height: 100%;
+}
+
+.classTitle {
+  color: #ecf0f1;
+  font-size: 4em;
+  font-family: "Amatic SC", cursive;
+  margin: 0.5em 0 0.3em 0;
+}
+
+i {
+  color: #c7c7c7;
+  font-size: 0.75em;
+}
+
+.classLoginMenu a {
+  color: #c7c7c7 !important;
+  font-size: 0.75em;
+  text-decoration: none !important;
+}
+
+.classLoginMenuWrapper {
+  position: relative;
+  height: 4em;
+  width: 4em;
+  background: #f39c12;
+  border-radius: 50%;
+  text-align: center;
+  cursor: pointer;
+  transition: all 500ms;
+  z-index: 999;
+}
+
+.classLoginMenuWrapper i {
+  margin-top: 45%;
+  margin-right: 10%;
+}
+
+.classLoginMenuWrapperClick {
+  border-radius: 0;
+  width: 8em;
+  background: #191919;
+  padding-top: 22%;
+}
+
+.classLoginMenu {
+  position: absolute;
+  left: 1em;
+  top: 10px;
+  transition: all 500ms;
+}
+
+.classWidth {
+  right: 0;
+}
+
+.classLoginMenuWrapper a {
+  display: none;
+  transition: all 500ms;
+  color: white;
+}
+
+.classLinkFx {
+  display: block !important;
+}
+
+.classDisplayNone {
+  display: none;
+}
+
+.classRowP {
+  background: #f4f4f4;
+  padding: 0.5em 0 0 0.5em;
+}
+
+.classTextInput {
+  color: #333333;
+}
+
+.classTextTitle {
+  color: #252525;
+  font-weight: 600;
+  font-size: 0.75em;
+}
+
+.size {
+  font-size: 0.75em;
+}
+
+.classRowMbottom {
+  margin-bottom: 0.25em;
+}
+
+.classTextInput,
+.classPhoneInput,
+.classEmailInput. .classUrlInput {
+  padding-left: 0.2em;
+}
+
+#template1 a {
+  color: #252525;
+  text-decoration: underline;
+}
+
+#template1 footer {
+  background: #191919;
+  color: #f39c12;
+  font-size: 0.8em;
+}
+
+#template1 footer a {
+  color: white;
+}
+
+#kontaktFirma {
+  font-weight: 600;
+}
+
+.classOrtWrapper,
+.classPhoneWrapper {
+  padding-top: 1em;
+  font-size: 0.8em;
+}
+
+.classPhoneWrapper {
+}
+
+button {
+  padding: 0.75em 1.5em;
+  background: #dfe4ea;
+  border: none;
+  border-radius: 0.5em;
+  text-decoration: none;
+  margin-top: 1em;
+  font-size: 0.75em;
+  margin-bottom: 1em;
+}
+
+button:hover {
+  background: #78828f;
+}
+
+.classFrontBtn a {
+  text-decoration: none !important;
+  font-weight: 600;
+  color: #4b5259 !important;
+}
+
+.classFrontBtn a:hover {
+  color: white !important;
+}
+
+.classWrapper {
+  padding-bottom: 2em;
+}

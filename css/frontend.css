@@ -34,6 +34,10 @@ body {
   display: none;
 }
 
+.logger {
+  font-size: 0.75em;
+}
+
 .kontaktdaten {
   display: none;
 }

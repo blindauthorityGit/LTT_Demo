@@ -44,7 +44,6 @@ if (!isset($_SESSION['username']))
         <div class="row">
             <div class="col">
                 <img src="./img/layout_set_logo.svg" alt="">
-                <a id="signOutBtn" class="nav-link" href="#">Sign out</a>
             </div>
         </div>
     </div>

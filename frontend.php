@@ -67,7 +67,7 @@
 
 
     <div class="classLoginMenu" id="loginMenu">         
-        <i class="fas fa-unlock-alt"></i>&nbsp;Login 
+        <i class="fas fa-unlock-alt"></i>
     </div>
 
     <div class="container">
